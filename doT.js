@@ -6,7 +6,7 @@
  * Licensed under the MIT license.
  */
 
-(function (root, factory) {	
+(function (root, factory) {
 	//Environment Detection
 	if (typeof define === 'function' && define.amd) {
 		//AMD

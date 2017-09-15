@@ -16,9 +16,9 @@
   "homepage": "http://github.com/thom-ek/doT",
   "repository": "git://github.com/thom-ek/doT.git",
   "author": "Laura Doktorova <ldoktorova@gmail.com>, Tomasz Muszyński <thom_ek@op.pl>",
-  "engines": [
-    "node >=0.2.6"
-  ],
+  "engines": {
+    "node": ">=0.2.6"
+  },
   "license": "MIT",
   "scripts": {
     "eslint": "if-node-version '>=4' eslint *.js --ignore-pattern *.min.js",
