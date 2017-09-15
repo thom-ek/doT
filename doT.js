@@ -1,7 +1,10 @@
-// doT.js
-// 2011-2014, Laura Doktorova, https://github.com/olado/doT
-// 2017, Tomasz Muszyński, https://github.com/thom-ek/doT
-// Licensed under the MIT license.
+/**
+ * doT.js
+ * @license
+ * 2011-2014, Laura Doktorova, https://github.com/olado/doT
+ * 2017, Tomasz Muszyński, https://github.com/thom-ek/doT
+ * Licensed under the MIT license.
+ */
 
 (function (root, factory) {	
 	//Environment Detection
